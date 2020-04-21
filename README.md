@@ -9,3 +9,6 @@ This is Docker TUI Manager for linux  .It will help to perform all necessary doc
   2.Made to run on Centos and RedHat with "systemctl command" enabled
   3.For other os , users have to manually first enable/start docker engine by using command.
  ******************----------------COMMANDS may be UPDATED with time------------------********************
+ 
+ This TUI program is more helpful for those who want to run/manage container at anywhere or place with their Mobile phones. 
+ As it become very hard to frequently write the command on the mobile or similar small devices.
