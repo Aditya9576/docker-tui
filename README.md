@@ -14,5 +14,5 @@ This is Docker TUI Manager for linux  .It will help to perform all necessary doc
  As it become very hard to frequently write the command on the mobile or similar small devices.
 
 [###IMPORTANT####]
-!!!!!!For now to before running a container , you must have to create a custom volume and network and make sure to attach it to the container. If not it may results in error.
+!!!!!!For now , before running any container , you must have to create a custom volume and network and make sure to attach it to the container. If not it may results in error.
 Sorry for this inconvenience but very soon I will solve this issues .!!!!!
